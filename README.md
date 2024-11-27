@@ -2,7 +2,7 @@
 
 ## My tech skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,tailwind,wordpress,vscode,npm,gulp,git,ps,ai&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,tailwind,wordpress,vscode,npm,gulp,git,ps,ai)](https://skillicons.dev)
 
 <!--
 **IT-HASAN/IT-HASAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
