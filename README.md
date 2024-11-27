@@ -1,6 +1,6 @@
 # I am working on building up my GitHub Profile
 
-## My tech skills
+## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,tailwind,wordpress,vscode,npm,gulp,git,ps,ai)](https://skillicons.dev)
 
