@@ -1,4 +1,4 @@
-# I am working on building up my GitHub Profile
+# Hello there, I am Ishan
 
 ## Languages and Tools:
 
