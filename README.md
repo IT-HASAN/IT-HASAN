@@ -1,4 +1,4 @@
-# Greetings, I am Ishan
+# Greetings, I am Ishan Hasan
 
 ## Technologies & Tools
 
